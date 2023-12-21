@@ -1,4 +1,8 @@
 ![Loader](https://github.com/Vampire6970/Loader/raw/main/icon.jpg)
+[![GitHub stars](https://img.shields.io/github/stars/Vampire6970/Loader?style=social)](https://github.com/Vampire6970/Loader)
+[![GitHub forks](https://img.shields.io/github/forks/Vampire6970/Loader?style=social)](https://github.com/Vampire6970/Loader)
+[![GitHub watchers](https://img.shields.io/github/watchers/Vampire6970/Loader?style=social)](https://github.com/Vampire6970/Loader)
+
 # Loader
 Loader apk with Post and convo and advanced server.
 # Current Version
